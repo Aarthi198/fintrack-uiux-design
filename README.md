@@ -1,14 +1,14 @@
- 💰 FinTrack - Smart Money Management App (UI/UX Case Study)
+# 💰 FinTrack - Smart Money Management App (UI/UX Case Study)
 
- 📌 Problem Statement
+## 📌 Problem Statement
 
 Managing personal finances is challenging due to the lack of intuitive tools that help users track expenses, analyze spending habits, and plan budgets effectively.
 
- 🎯 Solution
+## 🎯 Solution
 
 FinTrack is a smart money management application designed to simplify financial tracking. It enables users to monitor expenses, gain meaningful insights, and achieve financial goals through a clean and user-friendly interface.
 
- ✨ Key Features
+## ✨ Key Features
 
 * 📊 Expense tracking and analytics
 * 📈 Spending insights with visual charts
@@ -18,7 +18,7 @@ FinTrack is a smart money management application designed to simplify financial 
 * 🔔 Smart financial tips and insights
 * 🔐 Secure login and authentication
 
- 🧠 UX Design Process
+## 🧠 UX Design Process
 
 * User Research
 * Problem Definition
@@ -26,7 +26,7 @@ FinTrack is a smart money management application designed to simplify financial 
 * High-Fidelity UI Design
 * Interactive Prototyping
 
- 📱 Screens Included
+## 📱 Screens Included
 
 * Splash Screen
 * Onboarding (3 Screens)
@@ -38,14 +38,15 @@ FinTrack is a smart money management application designed to simplify financial 
 * Budget Planner
 * User Profile
 
- 🔗 Live Prototype
+## 🔗 Live Prototype
 
 https://www.figma.com/proto/Q2283Jmkakso6iykMPu0jn/Untitled?node-id=1-2
 
- 🛠 Tools Used
+## 🛠 Tools Used
 
 * Figma (UI/UX Design)
 
- 👩‍💻 Author
+## 👩‍💻 Author
 
 Aarthi
+
